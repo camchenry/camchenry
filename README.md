@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Cam McHenry. I'm a software engineer that is passionate about building great web applications. I'm currently working at GitHub. I sometimes write about TypeScript and React on my [blog](https://camchenry.com/), as well as other general web topics.
+
+#### Tools
+
+I also enjoy writing [tools](https://camchenry.com/tools), some of which you can find here:
+
+- [CacheCheck](https://cachecheck.net/) - Check HTTP caching headers for any URL on the web
+- [Is It Worth It To Automate?](https://camchenry.com/tools/worth-it-to-automate) - Calculator to figure out whether a repeated task is worth automating based on how much time it would save you
